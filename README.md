@@ -4,7 +4,7 @@ Proiectul a fost realizat pentru a prezenta o posibilă configurație a unei baz
 
 ## Diagrama conceptuală a bazei de date este următoarea :
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://github.com/Andrew0911/Job-Finding-Platform-Database/blob/main/DiagramaConceptuala.png" width = 600px height = 400px>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/Andrew0911/Job-Finding-Platform-Database/blob/main/DiagramaConceptuala.png" width = 600px height = 400px>
 
 
 
